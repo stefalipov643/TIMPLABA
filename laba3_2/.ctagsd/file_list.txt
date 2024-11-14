@@ -1,0 +1,4 @@
+/home/stud/Desktop/laba3_chast2/modPermutation.cpp
+/home/stud/Desktop/laba3_chast2/test_modPermutation.cpp
+/home/stud/Desktop/laba3_chast2/main.cpp
+/home/stud/Desktop/laba3_chast2/modPermutation.h
